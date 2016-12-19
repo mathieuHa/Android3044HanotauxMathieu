@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Intel</string>
+    <string name="nom">nameofstring</string>
+    <string name="button">button</string>
+    <string name="button_search">Search</string>
+    <string name="music_name">music ..</string>
+    <string name="msg">mesagge</string>
+    <string name="msg_empty_text">empty seach ..</string>
+    <string name="rv_biere">rv_biere</string>
+    <string name="home">Hello</string>
+    <string name="popularite">Popularity</string>
+    <string name="duree">Duration</string>
+    <string name="nom_album">Album :</string>
+    <string name="nom_auteur">Author :</string>
+    <string name="nom_music">Music :</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Infos</string>
+    <string name="nom">nomdeschaines</string>
+    <string name="nombouton">bouton</string>
+    <string name="msg">message</string>
+    <string name="home">Bonjour</string>
+    <string name="button">bouton</string>
+    <string name="rv_biere">lol</string>
+    <string name="button_search">Recherche</string>
+    <string name="music_name">musique ..</string>
+    <string name="msg_empty_text">recherche vide ..</string>
+    <string name="duree">Durée</string>
+    <string name="popularite">Popularité</string>
+    <string name="nom_album">Album :</string>
+    <string name="nom_auteur">Auteur :</string>
+    <string name="nom_music">Musique :</string>
+</resources>
